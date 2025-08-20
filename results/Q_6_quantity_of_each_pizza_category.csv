@@ -1,0 +1,7 @@
+"Q,6. Find the total quantity of each pizza category ordered.",
+,
+category,total_quantity_ordered
+Classic,14888
+Supreme,11987
+Veggie,11649
+Chicken,11050

@@ -1,0 +1,6 @@
+"Q,10. Determine the top 3 most ordered pizza types based on revenue.",,
+,,
+name,category,revenue
+The Thai Chicken Pizza,Chicken,43434.25
+The Barbecue Chicken Pizza,Chicken,42768
+The California Chicken Pizza,Chicken,41409.5
